@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious letter to His Parliament of Scotland: with the speech of His Royal Highness the Duke, His Majesties High Commissioner, at the opening of the Parliament at Edinburgh, the 28th day of July, 1681. : Together with the Parliaments most loyal and dutiful answer to His Majesties letter. / Published by His Majesties special command..</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19286</idno><idno type="EEBO-CITATION">99890332</idno>
+  <idno type="VID">193789</idno>
+  <idno type="EEBO-PROQUEST">2264190797</idno>
+  
+            <idno type="STC">Wing C3025</idno>
+            <idno type="STC">Interim Tract Supplement Guide Ashm.1679[55.b]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.3*.[64]</idno>
+            <idno type="STC">ESTC R3733</idno>
+            <idno type="PROQUEST">ocm99890332</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890332e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193789)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:1[54]; F2:2[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious letter to His Parliament of Scotland: with the speech of His Royal Highness the Duke, His Majesties High Commissioner, at the opening of the Parliament at Edinburgh, the 28th day of July, 1681. : Together with the Parliaments most loyal and dutiful answer to His Majesties letter. / Published by His Majesties special command..</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>James II, King of England, 1633-1701. aut</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb.,</publisher>
+                  <pubPlace>In the Savoy [i.e. London] :</pubPlace>
+                  <date>1681..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Duke of Albany = the future King James II of England.</note>
+                  <note>Imperfect: some page numbers and text cropped at head.</note>
+                  <note>Reproductions of originals in the Bodleian Library (reel C29:1[54]) and British Library (reel F2:2).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament --  History --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193789:1"/>
+            <p>His MAJESTIES GRACIOUS LETTER To His Parliament of Scotland: WITH THE SPEECH OF HIS Royal Highness the Duke, <hi>His Majesties High Commissioner,</hi> At the Opening of the Parliament at EDINBURGH, the 28th Day of <hi>July,</hi> 1681.</p>
+            <p>
+               <hi>TOGETHER WITH</hi> The Parliaments most Loyal and Dutiful Answer to His Majesties Letter.</p>
+            <p>Published by His Majesties special Command.</p>
+            <p>
+               <hi>In the SAVOY:</hi> Printed by THOMAS NEWCOMB. 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:193789:2"/>
+            <pb n="3" facs="tcp:193789:3"/>
+            <head>His Majesties Gracious LETTER to His Parliament of SCOTLAND.</head>
+            <opener>
+               <signed>
+                  <hi>CHARLES</hi> R.</signed>
+               <lb/>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>OUR Inclination to embrace all Opportunities to express Our constant Care of, and affection to Our Ancient Kingdom, hath moved Us to Call You together at this time, to Advise with Us what may truly conduce to the Security and Interest thereof: And as We have ever judged Our Own and the Interests of Our Subjects to be unseparable, and such as would divide them, to be in their Hearts Enemies to Both; (Experi<g ref="char:EOLhyphen"/>ence having sufficiently evinced, that all Invasions upon, or Di<g ref="char:EOLhyphen"/>minutions of, the Rights and Prerogatives of Our Crown, prove fatal, and destructive to the Security and Property of Our People, which can only thereby be protected) so are they then best ma<g ref="char:EOLhyphen"/>naged and secured, when provided for by Unanimous Counsels and Joint Resolutions. And as it is one of Our greatest Satis<g ref="char:EOLhyphen"/>factions that We have been always careful of that Our Ancient Kingdom, with a Tenderness suitable to Our great Interest in it; so when We remember the firm and dutiful Constancy which it hath always paid to the Royal Line and Family; and that now it is your Interest as well as Duty to adhere unto it with Un<g ref="char:EOLhyphen"/>shaken Loyalty as much as ever; We cannot doubt of your Ready and Zealous Compliance at this time, with what shall be Proposed as fit for Our Service; which can never be divided from the Happiness of Our People.</p>
+            <p>And since some (corrupted with the Rebellious Principles of the Last Age, or the Blind Zeal of this) have at first raised Schisms and Separation in the Church, and afterwards frequent Rebellions against Us; We cannot but expect from your Pru<g ref="char:EOLhyphen"/>dent Consultations, effectual and adequate Remedies for curing these Violent Distempers at present, and preventing them for the future: And that you will not despise or connive at the smallest
+<pb n="4" facs="tcp:193789:4"/>Appearances of these Wicked and Seditious Principles, which (bow plausibly soever they may be disguised under the old Pre<g ref="char:EOLhyphen"/>tences and fallacious Masks of Liberty and Religion, which are ever least minded by the most Clamorous Pretenders to them) yet in the Issue lead to such Monstrous Effects, and Rebellious Extravagances, as necessarily tend to the Dissolution of all Go<g ref="char:EOLhyphen"/>vernment <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Order: And of which you cannot chuse but be deeply sensible.</p>
+            <p>This being once effectually done, We may reasonably hope that Our Government in Church and State, as by Law presently Established, shall receive its due Reverence and Obedience, and that all Our good Subjects shall be preserved in Peace, T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anqui<g ref="char:EOLhyphen"/>lity and Happiness. For promoting these Great Ends, so ne<g ref="char:EOLhyphen"/>cessary to the securing the Protestant Religion, Our Authority and Government, and the Common Interest of Our People, by your Joint Advice, who are so much concerned; and for Enact<g ref="char:EOLhyphen"/>ing of such laws as Experience hath discovered to be wanting for distribution of Justice in several Cases, which have emerged since Our last Parliament, We have called This; and as an Emi<g ref="char:EOLhyphen"/>nent Expression of Our Favour to You, have named Our most Dear and most Entirely Beloved Brother <hi>JAMES</hi> Duke of <hi>Albany</hi> and <hi>York, &amp;c.</hi> to be Our Commissioner therein, whom We have found so Affectionate to You, and to whom You have te<g ref="char:EOLhyphen"/>stified so much Duty during His long stay amongst You, which have enabled Him so well to understand the Affairs and Interest of that Our Ancient Kingdom. And since His Interest is so un<g ref="char:EOLhyphen"/>separable from Ours, We shall not doubt of Your Ready and Chearful Concurrence to render His Endeavours amongst You successful for securing Our Government, and your own Peace and Happiness. By doing whereof you will answer the entire Con<g ref="char:EOLhyphen"/>sidence We have in your Prudence and Loyalty; and so We bid you heartily Farewel.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Windsor-Castle,</hi>
+                  <date>the 12th Day of <hi>July,</hi> 1681. and of Our Reign the 33th Year.</date>
+               </dateline>
+               <signed>By His Majesties Command. <hi>MORRAY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:193789:4"/>
+            <head>The Speech of His Royal Highness the Duke, His Ma<g ref="char:EOLhyphen"/>jesties High Commissioner, at the Opening of the Parliament at <hi>Edenburg,</hi> the <hi>28th</hi> Day of <hi>July,</hi> 1681.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>AS I have had the Honour to Serve His Majesty in other Capacities, so I esteem it a great Honour and Happi<g ref="char:EOLhyphen"/>ness, that he hath been pleased to make Choice of Me to serve Him as His Commissioner in this His Ancient Kingdom; Since it shows to all the World, the Goodness He hath for Me, as well as the Trust and Confidence He hath in Me, and puts Me not only in a Capacity of serving Him as becomes a Dutiful and Loyal Subject, but also gives Me the Opportunity of letting You all see, the real Concern I have for the Good of this Country, and My readiness to serve it, and promote its true Interests.</p>
+            <p>I do not doubt but that this will be a happy Meeting, and end to the Satisfaction of His Majesty, and all His Loyal Sub<g ref="char:EOLhyphen"/>jects; which I say with the greater Confidence, having now been so long amongst You, and found so great a Readiness in all of You for the Advancing of His Majesties Service.</p>
+            <p>You have heard in His Majesties Gracious Letter, the Rea<g ref="char:EOLhyphen"/>sons of his Calling you together at this time, and what He doth, and may, expect from this His Ancient Kingdom; of whose Loyalty and Affection to His Service, He doth in no manner doubt.</p>
+            <p>He hath commanded Me to assure You, That He will invio<g ref="char:EOLhyphen"/>lably Maintain and Protect the Protestant Religion, as now Established by Law in this His Kingdom; and that He will up<g ref="char:EOLhyphen"/>on the same Account, Protect and Maintain the Government of the Church by Arch-Bishops, and Bishops, and will take their Persons, and all other their Concerns into His Royal Care and Protection: And doth seriously recommend to You, to fall up<g ref="char:EOLhyphen"/>on Effectual Courses, for Suppressing those Seditious and Re<g ref="char:EOLhyphen"/>bellious Coventicles, from whence proceed all Disorder and Confusion, and those Horrid and Extravagant Doctrines, which are a Scandal to Christianity, and a Subversion of all Publick and Private Interests.</p>
+            <pb n="6" facs="tcp:193789:5"/>
+            <p> I am also to Declare to You in His Majesties Name, that it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and was always His Intention, that Law should have its due Course, for the Security of His Subjects Properties and Rights; and that He will always discountenance all Courses contrary to, and inconsistent with the Laws of this Kingdom; none being so much concerned for their due Observance as Himself.</p>
+            <p>And now He doth expect You will not be short of the Loy<g ref="char:EOLhyphen"/>alty of your Ancestors, in vigorously asserting and clearing His Royal Prerogative, and in declaring the Rights of His Crown in its Natural and Legal course of Descent▪ and that You will take Care to settle and provide such seasonable and necessary Supplies, which the Support and Interest of His Government call for and require.</p>
+            <p>And now I hope, that as the Councel have already begun to do their parts to promote the Trade of this Kingdom, that You will also do Yours, that at may Flourish.</p>
+            <p>My Lords and Gentlemen,<lb/> A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Inclination I h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to serve and promote the Interest of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kingdom hath been the chief Inducement to His Majesty to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive Me thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opportunity to convince You of it, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> do what becomes Me to satisfie You o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>th and I hope you will have that Consideration and Kind<g ref="char:EOLhyphen"/>ness for Me, as to enable Me to perform His Service.</p>
+         </div>
+         <div type="letter">
+            <head>The Parliaments most Loyal and Dutiful Answer to His Majesties Letter.</head>
+            <opener>
+               <salute>May it please Your Sacred Majesty,</salute>
+            </opener>
+            <p>THe manifold sad Experiences of the fatal Mischiefs and Calamities which attend Rebellions, must needs in due proportion, dispose all Your Majesties Subjects to higher mea<g ref="char:EOLhyphen"/>sures of Loyalty, more particularly Us in this Your Ancient Kingdom; being sensible that as we have a more special interest in Your Majesties Sacred Person and Family, so must we inevi<g ref="char:EOLhyphen"/>tably share the more deeply in all the Inconveniencies which may disturb or subvert Your Royal Government: And therefore as
+<pb n="7" facs="tcp:193789:5"/>by our Allegiance we own it our Duty to be Obedient and Loyal to Your Majesty, and your Lawful Heirs and Successors, so Your Majesties extraordinary Kindness to such as have continued in their Duty, and Your wonderful Clemency (by Your repeated Indemnities) to such as have fallen from it, cannot but kindle in us strong and ardent desires to serve Your Majesty with all the Courage and Alacrity of which we are capable, and to let Your other Kingdoms and all the World see, that we esteem our Lives and Fortunes to be best employed in maintaining of the just Rights and Prerogatives of your Majesties Crown and Monar<g ref="char:EOLhyphen"/>chy; the Native Succession whereof cannot be invaded without the utter Subversion of the Fundamental Laws of this your Ma<g ref="char:EOLhyphen"/>jesties Ancient Kingdom: And this our Loyalty we esteem our alone Security to avoid those Confusions and that Slavery which distracted and ruined us in the last Age, and seemeth to threa<g ref="char:EOLhyphen"/>ten us so apparently in this.</p>
+            <p>
+               <hi>SIR,</hi>
+               <lb/> Though some Rebellious and deluded People have disturbed your Majesties Government here, yet their Principles are so ex<g ref="char:EOLhyphen"/>travagant, and so few Persons of any Note or Quality are en<g ref="char:EOLhyphen"/>gaged with them, that we may justly hope their Crimes cannot be imputed to this Kingdom, whose Representatives in this your Majesties Parliament will, no less for their Vindication as to what is past, than for their own Security for the time coming, che<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fully provide suitable and sufficient Remedies; all of us being very sensible that those Distractions and Disorders would in the issue tend to the Dissolution, not only of your Majesties Govern<g ref="char:EOLhyphen"/>ment in Church and State, as the same is by Law Established, but even of all Humane Society.</p>
+            <p>It is a great satisfaction to us, to find Your Majesty so concer<g ref="char:EOLhyphen"/>ned for the Protestant Religion, not only in your Gracious Let<g ref="char:EOLhyphen"/>ter to us, but in the whole Conduct of your Royal Govern<g ref="char:EOLhyphen"/>ment; and we shall with all Christian Care and Duty, endea<g ref="char:EOLhyphen"/>vour to confirm it, so as it may become a solid and pious Sup<g ref="char:EOLhyphen"/>port to your Royal Family and Monarchy, and a sure Fence in this disturbed and divided Church, against all the Usurpations and Disorders of Popery and Phanatischim; that so for the fu<g ref="char:EOLhyphen"/>ture the pretence of its Insecurity may not be made (as former<g ref="char:EOLhyphen"/>ly) an Engine for carrying on disloyal Designs and Practices</p>
+            <p>We offer our most humble and hearty Thanks to Your most Sacred Majesty for calling us together at this time, to consult joyntly the Interests of your Majesties Government, and of your
+<pb n="8" facs="tcp:193789:6"/>Subjects in this your Ancient Kingdom, which we trust shall ne<g ref="char:EOLhyphen"/>ver be divided: And therefore as the Prerogatives and just Rights of the Monarchy, are absolutely necessary for the defence of our Properties and Liberties, so in pursuance of our own In<g ref="char:EOLhyphen"/>terest, and for further clearing of our Duty and Allegiance by positive Laws, we shall not fail to declare our humble and hear<g ref="char:EOLhyphen"/>ty Acknowledgments of the just Rights and Prerogatives of your Imperial Crown in its Just, Native and Lineal Course of Descent, and to secure the just Rights and Liberties of your Subjects, so as may fully demonstrate our unalterable Resolutions never to depart from our Duty to your Royal Family, and your Lawful Heirs and Successors, to whom we are tied by so many sacred Obligations</p>
+            <p>We do also with all humble gratitude acknowledg, the Grace and Honour done to this Kingdom, in naming Your Royal Brother to be your Majesties High Commissioner in this present Parlia<g ref="char:EOLhyphen"/>ment; and indeed the beholding a Son of our Ancient Mo<g ref="char:EOLhyphen"/>narchs (under whom we and our Ancestors have been so long and happily Governed) in this Character, doth vigorously awa<g ref="char:EOLhyphen"/>ken in us the remembrance of our native Kindness and Obliga<g ref="char:EOLhyphen"/>tion, as his just Temper and steady Equality in all our Concerns, cannot but extinguish in us all fears and jealousies of Severity or Partiality, his Interest being inseperable from your Majesties, and he being well acquainted with all our Concerns, and so affectio<g ref="char:EOLhyphen"/>nate to and careful of them, your Majesty may justly expect from a Parliament under the Conduct of such a Commissioner, all that can be judged necessary for the Honour and Support of your Royal Government and Authority, and for securing the just Rights and Liberties of your Subjects; and that, with all the Loyalty, Readiness, and Sincerity which can be expressed by Us.</p>
+            <closer>
+               <dateline>Edenburg, <date>the 1st of <hi>August.</hi> 1681.</date>
+               </dateline>
+               <signed>
+                  <hi>Signed in Name and by Order of the Parliament,</hi> By Your Majesties most Humble, most Faith<g ref="char:EOLhyphen"/>ful, and most Obedient Subject and Servant, <hi>ATHOL, J. P. D.</hi> Par.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
